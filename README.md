@@ -46,8 +46,11 @@ The objective is not just to report metrics, but to diagnose performance drivers
 A modeling issue affecting AOV accuracy was identified and resolved by correcting relationship direction.
 
 This ensured reliable KPI calculations and trustworthy insights.
-## Key Insights 
-### 1. Sales & Demand Trends
+## Key Insights
+
+![dashboard](https://github.com/ARAFAH-LAWAL102/Order-Sales-Performance-Analysis/blob/main/Order%20Sales%20%20Performance%20overview.png)
+## Overview Page
+### 1. Revenue Trends
 
 2020 showed consistent month-over-month growth across revenue, orders, quantity, and AOV, indicating strong and growing customer demand.
 
@@ -65,8 +68,28 @@ July 2021 showed an extreme drop due to partial data, as the dataset ends in Jul
 
 Business Meaning:
 The revenue decline in 2021 was primarily demand-driven, not operational, and was compounded by customers placing fewer and smaller orders.
+### 2.Product Performance
 
-### 2. Revenue Drivers (Warehouses)
+Top revenue-generating products across both years:
+
+Chocolate Truffles
+
+Nougat
+
+Turkish Delight
+
+These products remained consistent revenue drivers.
+### 3. Average Order Value (AOV) Behavior
+
+- AOV increased month-over-month throughout 2020.
+
+- In 2021, AOV declined by approximately 15% MoM.
+
+Business Meaning:
+Even when orders occurred, customers spent less per transaction in 2021, accelerating revenue decline beyond the effect of reduced order volume alone.
+
+## Performance Page
+### 1. Revenue Drivers (Warehouses)
 
 Across both years, revenue was consistently driven by:
 
@@ -81,14 +104,6 @@ Despite overall revenue decline in 2021, the same warehouses remained top contri
 Business Meaning:
 The business structure remained stable; performance decline was not caused by warehouse inefficiency but by reduced customer purchasing activity.
 
-### 3. Average Order Value (AOV) Behavior
-
-- AOV increased month-over-month throughout 2020.
-
-- In 2021, AOV declined by approximately 15% MoM.
-
-Business Meaning:
-Even when orders occurred, customers spent less per transaction in 2021, accelerating revenue decline beyond the effect of reduced order volume alone.
 
 ### 4. Order Quantity vs Revenue
 
