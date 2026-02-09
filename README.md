@@ -13,6 +13,8 @@ The analysis evaluates order sales performance across 2020 and 2021, with a focu
 - Customer and regional contribution
 
 The objective is not just to report metrics, but to diagnose performance drivers and support business decisions.
+[View Live Dashboard here](https://app.powerbi.com/view?r=eyJrIjoiNTU5OThkZDItNTc3My00Mjk5LWI5MjMtZjE4OWZmMjIxZjNhIiwidCI6Ijc5YTVkMDZiLTEzZmItNDdjMy1iYWY0LWQyNGIyMjcwOTg0YyJ9
+)
 ## Business Questions
 
 1. How are revenue, orders, quantity, and AOV trending over time?
