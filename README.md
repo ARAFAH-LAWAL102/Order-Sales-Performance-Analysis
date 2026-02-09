@@ -109,11 +109,11 @@ Scatter plot analysis showed positive relationship:
 **Business Meaning:**
 Revenue loss was not driven by pricing alone, but by fewer orders and reduced basket sizes — reinforcing the demand-side problem.
 
-### Product Decline
+### f.Product Decline
 
 All products showed MoM decline in 2021 compared to MoM growth in 2020, indicating a broad demand contraction rather than isolated product issues.
 
-### f. Order Completion Rate
+### g. Order Completion Rate
 The order completion rate was constant 95% for the both years.
 
 **Business meaning:** This confirms that performance decline in 2021 were demand-driven, not operational.
@@ -122,7 +122,7 @@ The order completion rate was constant 95% for the both years.
 ## Customer & Regional Analysis
 ![s](https://github.com/ARAFAH-LAWAL102/Order-Sales-Performance-Analysis/blob/main/order%20Sales%20Customer%20and%20Regional%20Analysis.png)
 
-### i. Revenue vs Customer Behaviour:
+### h. Revenue vs Customer Behaviour:
 
 - Wholesale: ~42%
 
@@ -139,7 +139,7 @@ The order completion rate was constant 95% for the both years.
 **Business Meaning:**
 Heavy reliance on a small customer base increases revenue risk during demand downturns.
 
-### j. Regional Performance
+### i. Regional Performance
 
 - Best-performing regions across both years: West,South,Midwest
 
