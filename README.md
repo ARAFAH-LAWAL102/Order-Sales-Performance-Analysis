@@ -50,7 +50,7 @@ This ensured reliable KPI calculations and trustworthy insights.
 ## Overview Page
 ![dashboard](https://github.com/ARAFAH-LAWAL102/Order-Sales-Performance-Analysis/blob/main/Order%20Sales%20%20Performance%20overview.png)
 
-### Revenue Trends
+### a. Revenue Trends
 
 2020 showed consistent month-over-month growth across revenue, orders, quantity, and AOV, indicating strong and growing customer demand.
 
@@ -68,10 +68,10 @@ July 2021 showed an extreme drop due to partial data, as the dataset ends in Jul
 
 **Business Meaning:**
 The revenue decline in 2021 was primarily demand-driven, not operational, and was compounded by customers placing fewer and smaller orders.
-### Product Performance
+### b. Product Performance
 Top revenue-generating products across both years: Chocolate Truffles, Nougat, Turkish Delight
 These products remained consistent revenue drivers.
-###  Average Order Value (AOV) Behavior
+### c.  Average Order Value (AOV) Behavior
 
 - AOV increased month-over-month throughout 2020.
 
@@ -82,7 +82,7 @@ Even when orders occurred, customers spent less per transaction in 2021, acceler
 ## Performance Page
 ![a](https://github.com/ARAFAH-LAWAL102/Order-Sales-Performance-Analysis/blob/main/Order%20Sales%20Performance.png)
 
-###  Revenue Drivers (Warehouses)
+### d. Revenue Drivers (Warehouses)
 
 Across both years, revenue was consistently driven by:
 
@@ -98,7 +98,7 @@ Despite overall revenue decline in 2021, the same warehouses remained top contri
 The business structure remained stable; performance decline was not caused by warehouse inefficiency but by reduced customer purchasing activity.
 
 
-### Order Quantity vs Revenue
+### e. Order Quantity vs Revenue
 
 Scatter plot analysis showed positive relationship:
 
@@ -109,14 +109,16 @@ Scatter plot analysis showed positive relationship:
 **Business Meaning:**
 Revenue loss was not driven by pricing alone, but by fewer orders and reduced basket sizes — reinforcing the demand-side problem.
 
-### Order Completion Rate
+### f. Order Completion Rate
 The order completion rate was constant 95% for the both years.
+
 **Business meaning:** This confirms that performance decline in 2021 were demand-driven, not operational.
 ### Least Performing Product
 
 ## Customer & Regional Analysis
+![s](https://github.com/ARAFAH-LAWAL102/Order-Sales-Performance-Analysis/blob/main/order%20Sales%20Customer%20and%20Regional%20Analysis.png)
 
-### Revenue concentration by customer type:
+### g. Revenue vs Customer Behaviour:
 
 - Wholesale: ~42%
 
@@ -128,12 +130,12 @@ The order completion rate was constant 95% for the both years.
 
 - Revenue is heavily concentrated among a small number of top customers.
 
-- Top customers changed between 2020 and 2021, indicating instability in high-value customer retention.
+- **Top customers:** changed between 2020 and 2021, indicating instability in high-value customer retention.
 
 **Business Meaning:**
 Heavy reliance on a small customer base increases revenue risk during demand downturns.
 
-### Regional Performance
+### h. Regional Performance
 
 - Best-performing regions across both years: West,South,Midwest
 
