@@ -53,6 +53,7 @@ This ensured reliable KPI calculations and trustworthy insights.
 ![dashboard](https://github.com/ARAFAH-LAWAL102/Order-Sales-Performance-Analysis/blob/main/Order%20Sales%20%20Performance%20overview.png)
 
 ### a. Revenue Trends
+**Insight:**
 
 2020 showed consistent month-over-month growth across revenue, orders, quantity, and AOV, indicating strong and growing customer demand.
 
@@ -71,13 +72,16 @@ July 2021 showed an extreme drop due to partial data, as the dataset ends in Jul
 **Business Meaning:**
 The revenue decline in 2021 was primarily demand-driven, not operational, and was compounded by customers placing fewer and smaller orders.
 ### b. Product Performance
-Top revenue-generating products across both years: Chocolate Truffles, Nougat, Turkish Delight
-These products remained consistent revenue drivers.
+**Insight:**
+
+Chocolate Truffles, Nougat, and Turkish Delight remained the top revenue-generating products across both years.
+
+**Business Meaning:**
+Revenue concentration in a small group of core products suggests portfolio stability but also increases risk during demand downturns if these products underperform.
+
 ### c.  Average Order Value (AOV) Behavior
-
-- AOV increased month-over-month throughout 2020.
-
-- In 2021, AOV declined by approximately 15% MoM.
+**Insight:**
+- AOV increased month-over-month throughout 2020.but in 2021, AOV declined by approximately 15% MoM.
 
 **Business Meaning:**
 Even when orders occurred, customers spent less per transaction in 2021, accelerating revenue decline beyond the effect of reduced order volume alone.
@@ -85,14 +89,9 @@ Even when orders occurred, customers spent less per transaction in 2021, acceler
 ![a](https://github.com/ARAFAH-LAWAL102/Order-Sales-Performance-Analysis/blob/main/Order%20Sales%20Performance.png)
 
 ### d. Revenue Drivers (Warehouses)
+**Insight:**
 
-Across both years, revenue was consistently driven by:
-
-- AXW291
-
-- GUT930
-
-- NXH382
+Across both years, revenue was consistently driven by: AXW291, GUT930, NXH382
 
 Despite overall revenue decline in 2021, the same warehouses remained top contributors.
 
@@ -101,31 +100,30 @@ The business structure remained stable; performance decline was not caused by wa
 
 
 ### e. Order Quantity vs Revenue
+**Insight:**
 
-Scatter plot analysis showed positive relationship:
-
-- High-volume orders generally aligned with higher revenue.
-
-- In 2021, both volume and value declined simultaneously.
+Scatter plot analysis showed a positive relationship between order volume and revenue. In 2021, both declined simultaneously.
 
 **Business Meaning:**
 Revenue loss was not driven by pricing alone, but by fewer orders and reduced basket sizes — reinforcing the demand-side problem.
 
 ### f.Product Decline
+**Insight:**
 
 All products showed MoM decline in 2021 compared to MoM growth in 2020, indicating a broad demand contraction rather than isolated product issues.
 
-### g. Order Completion Rate
-The order completion rate was constant 95% for the both years.
+### g. Operational Stability
+The order completion rate was constant 95% for both years.
 
-**Business meaning:** This confirms that performance decline in 2021 were demand-driven, not operational.
+**Business meaning:** 
+Operational processes were consistent, confirming that performance challenges in 2021 were demand-driven rather than process-related.
 
 
 ## Customer & Regional Analysis
 ![s](https://github.com/ARAFAH-LAWAL102/Order-Sales-Performance-Analysis/blob/main/order%20Sales%20Customer%20and%20Regional%20Analysis.png)
 
 ### h. Revenue vs Customer Behaviour:
-
+**Insight:**
 - Wholesale: ~42%
 
 - Online: ~22%
@@ -134,7 +132,7 @@ The order completion rate was constant 95% for the both years.
 
 - Club: ~15%
 
-- Revenue is heavily concentrated among a small number of top customers.
+ Revenue is heavily concentrated among a small number of top customers.
 
 - **Top customers:** changed between 2020 and 2021, indicating instability in high-value customer retention.
 
@@ -142,7 +140,7 @@ The order completion rate was constant 95% for the both years.
 Heavy reliance on a small customer base increases revenue risk during demand downturns.
 
 ### i. Regional Performance
-
+**Insight:**
 - Best-performing regions across both years: West,South,Midwest
 
 - Weakest region: Northeast
