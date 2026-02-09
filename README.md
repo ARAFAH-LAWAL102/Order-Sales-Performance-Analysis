@@ -113,9 +113,7 @@ Revenue loss was not driven by pricing alone, but by fewer orders and reduced ba
 The order completion rate was constant 95% for the both years.
 
 **Business meaning:** This confirms that performance decline in 2021 were demand-driven, not operational.
-### g. Product Decline
 
-All products showed MoM decline in 2021 compared to MoM growth in 2020, indicating a broad demand contraction rather than isolated product issues.
 
 ## Customer & Regional Analysis
 ![s](https://github.com/ARAFAH-LAWAL102/Order-Sales-Performance-Analysis/blob/main/order%20Sales%20Customer%20and%20Regional%20Analysis.png)
