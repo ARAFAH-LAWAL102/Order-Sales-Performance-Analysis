@@ -109,6 +109,10 @@ Scatter plot analysis showed positive relationship:
 **Business Meaning:**
 Revenue loss was not driven by pricing alone, but by fewer orders and reduced basket sizes — reinforcing the demand-side problem.
 
+### Product Decline
+
+All products showed MoM decline in 2021 compared to MoM growth in 2020, indicating a broad demand contraction rather than isolated product issues.
+
 ### f. Order Completion Rate
 The order completion rate was constant 95% for the both years.
 
