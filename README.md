@@ -37,17 +37,30 @@ The objective is not just to report metrics, but to diagnose performance drivers
 - Power Query (Data cleaning & transformation)
 
 - Data Modeling (Star Schema, relationship optimization)
+
+- Microsoft Power Point (For designing dashboard wireframe)
+
+## Data Structure
+- File format: Excel format(xlsx)
+- Volume: 10k+ rows and 15 columns
+- Time Frame: 2020-2021
+
+## Data Cleaning
+- Created dimension tables (Order_DIM and Customer_DIM) from the Order Fact table
+- Removed duplicate records to ensure data accuracy
+- Standardized data types to support reliable calculations
+- Merged tables to establish proper relationships between Customer_DIM and Order_Fact tables
+ 
+  
+
+
 ## Data Model Overview
 
 - Star schema with a central Order Fact table
 
 - Dimension tables for Date, Customer, Order, and Region
 
-- Single-direction relationships to avoid KPI inflation
-
-A modeling issue affecting AOV accuracy was identified and resolved by correcting relationship direction.
-
-This ensured reliable KPI calculations and trustworthy insights.
+- Single-direction relationships to avoid KPI inflation.
 ## Key Insights
 ## Overview Page
 ![dashboard](https://github.com/ARAFAH-LAWAL102/Order-Sales-Performance-Analysis/blob/main/Order%20Sales%20%20Performance%20overview.png)
@@ -173,6 +186,34 @@ There are clear geographic optimization opportunities through targeted regional 
 - Prioritize high-performing regions while investigating persistent underperformers.
 
 - Flag partial-month data in reporting to avoid misleading performance signals.
+
+## Skills Strengthened
+- Translating business questions into structured analytical frameworks
+- Designing star-schema data models to ensure accurate KPI calculations
+- Writing DAX measures for MoM analysis and AOV tracking
+- Debugging relationship and filter-context issues in Power BI
+- Building interactive dashboards using slicers and bookmarks
+- Creating standard dashboard wireframes using Microsoft PowerPoint
+- Communicating insights clearly with measurable business impact
+
+
+ -----
+## Challenges Faced
+- During this project, I encountered a data modeling issue that caused the Average Order Value (AOV) metric to behave incorrectly when filtering by year.
+The issue was traced to the cross-filter direction between the Order Fact table and related dimension tables, which was initially set to Both. This caused ambiguous filter propagation and inflated KPI results.
+By correcting the relationship to Single-direction filtering, the AOV calculation became responsive and accurate across all slicers.
+- Additionally, creating and updating bookmarks for interactive filtering required careful configuration to ensure slicers reset correctly across pages.
+  
+**Outcome:**
+Resolving these challenges improved my understanding of Power BI data modeling, relationship management, and interactive dashboard design, resulting in more reliable KPIs and a smoother user experience.
+
+## Conclusion
+
+This project transformed raw transactional data into actionable insights that explain revenue performance, demand shifts, and customer concentration. The analysis highlighted that performance changes were demand-driven rather than operational, providing clear direction for strategic focus. The dashboard enables stakeholders to monitor trends, identify risks, and make informed decisions.
+
+
+
+
 
 ## ⚠️ Data Limitations
 
