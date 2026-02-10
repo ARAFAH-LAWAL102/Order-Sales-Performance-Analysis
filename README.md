@@ -100,7 +100,7 @@ Revenue concentration in a small group of core products suggests portfolio stabi
 **Business Meaning:**
 Even when orders occurred, customers spent less per transaction in 2021, accelerating revenue decline beyond the effect of reduced order volume alone.
 ## Performance Page
-![a](https://github.com/ARAFAH-LAWAL102/Order-Sales-Performance-Analysis/blob/main/Order%20Sales%20Performance.png)
+![a](https://github.com/ARAFAH-LAWAL102/Order-Sales-Performance-Analysis/blob/main/order%20sales%20performance%20..png)
 
 ### d. Revenue Drivers (Warehouses)
 **Insight:**
