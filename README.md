@@ -55,7 +55,7 @@ The objective is not just to report metrics, but to diagnose performance drivers
 
 
 ## Data Modelling
-![a](github.com/ARAFAH-LAWAL102/Order-Sales-Performance-Analysis/blob/main/order%20Data%20Modelling.png)
+![a](https://github.com/ARAFAH-LAWAL102/Order-Sales-Performance-Analysis/blob/main/order%20Data%20Modelling.png)
 
 - Star schema with a central Order Fact table
 
@@ -64,7 +64,7 @@ The objective is not just to report metrics, but to diagnose performance drivers
 - Single-direction relationships to avoid KPI inflation.
 ## Key Insights
 ## Overview Page
-![dashboard](https://github.com/ARAFAH-LAWAL102/Order-Sales-Performance-Analysis/blob/main/Order%20Sales%20%20Performance%20overview.png)
+![dashboard](https://github.com/ARAFAH-LAWAL102/Order-Sales-Performance-Analysis/blob/main/order%20sales%20overview.png)
 
 ### a. Revenue Trends
 **Insight:**
