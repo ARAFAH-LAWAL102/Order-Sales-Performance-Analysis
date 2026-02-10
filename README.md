@@ -134,7 +134,7 @@ Operational processes were consistent, confirming that performance challenges in
 
 
 ## Customer & Regional Analysis
-![s](https://github.com/ARAFAH-LAWAL102/Order-Sales-Performance-Analysis/blob/main/order%20Sales%20Customer%20and%20Regional%20Analysis.png)
+![s](https://github.com/ARAFAH-LAWAL102/Order-Sales-Performance-Analysis/blob/main/sales%20customer%20and%20regional%20analysis.png)
 
 ### h. Revenue vs Customer Behaviour:
 **Insight:**
