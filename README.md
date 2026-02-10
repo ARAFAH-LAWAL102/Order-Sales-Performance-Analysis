@@ -54,7 +54,8 @@ The objective is not just to report metrics, but to diagnose performance drivers
   
 
 
-## Data Model Overview
+## Data Modelling
+![a](github.com/ARAFAH-LAWAL102/Order-Sales-Performance-Analysis/blob/main/order%20Data%20Modelling.png)
 
 - Star schema with a central Order Fact table
 
